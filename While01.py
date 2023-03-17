@@ -6,13 +6,4 @@ def main(s):
     Returns:
         int: return answer
     """
-    i = 0
-    a = 0
-    u = len(s)
-    while u>i:
-        if s[i].isdigit():
-            a += 1
-        i += 1
-    return a
-
-print(main("ablkdnfgkjw"))
+    return
